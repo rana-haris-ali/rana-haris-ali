@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Haris #
-- I’m a Software Developer looking to work on awesome open source projects
-- I’m currently learning Web Development
+- I’m a Software Engineer looking to work on awesome open source projects
+- I’m currently working as a Backend Engineer mainly working with Node.js
 - I love learning new technologies
 - You can reach me on ranaharisali3t@gmail.com
 
